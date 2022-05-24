@@ -7,7 +7,8 @@ Olá! Eu sou a Julia Amboni
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Julia-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="right" alt="Julia-gif" src="https://tenor.com/view/kawaii-pixel-pixel-art-arcade-aesthetic-gif-24829548.gif">
+  
   ##
  
 <div> 
